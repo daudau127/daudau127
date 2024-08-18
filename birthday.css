@@ -1,5 +1,4 @@
 #hero {
-    ackground-position: center;
     background-attachment: fixed;
     height: 100vh;
     background-image: url(photo/backgr.png);
@@ -7,7 +6,6 @@
     justify-content: center;
     margin: 0;
     display: flex;
-
 }
 .heading {
     font-size: 50px;
